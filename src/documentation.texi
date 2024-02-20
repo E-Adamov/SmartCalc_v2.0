@@ -1,0 +1,117 @@
+\input texinfo
+@comment %**start of header
+@settitle SmartCalc v2.0 User's Manual
+@comment %**end of header
+
+@ifinfo
+@copying
+Copyright © 2022 kwukong
+@end copying
+@end ifinfo
+
+
+SmartCalc v2.0 Manual
+
+The calculator supports expressions with following arithmetic operations:
+
+1. Addition: a + b
+
+2. Subtraction: a - b
+
+3. Multiplication: a * b
+
+4. Division: a / b
+
+5. Exponentiation: a ^ b
+
+6. The remainder of division: a mod b
+
+7. The unary minus and plus: -a +a
+
+and functions:
+
+1. cos(x)
+
+2. sin(x)
+
+3. tan(x)
+
+4. acos(x)
+
+5. asin(x)
+
+6. atan(x)
+
+7. sqrt(x)
+
+8. ln(x)
+
+9. log(x)
+
+
+Calculator instructions:
+
+1. You can use the graphic buttons to enter an expression.
+
+2. It is possible to enter up to 255 characters
+
+3. The "CE" button removes one symbol or function
+
+4. Button "AC" clears the screen 
+
+5. Pressing the button "graph" opens a graph window.
+
+6. In order to build the graph it is necessary that the output contains x
+
+7. The start x and end x fields define the area of the value.
+
+8. To build a graph you must click the "build the graph" button
+
+9. To close the graph window click the "close graph window" button
+
+10. If you entered an invalid expression, the application reports an error.
+
+Credit calculator:
+
+1. Click the "credit" button to open the credit calculator
+
+2. Enter the loan amount.
+
+3. Enter the loan term in months.
+
+4. Enter the interest rate in percent.
+
+5. Select the type of payments.
+
+6. You can enter new values for a new calculation.
+
+7. Click the "calculate" button for the calculation.
+
+8. Click the "clear" button to clear the data.
+
+9. To close the credit calculator click the "close" button.
+
+Deposit calculator:
+
+1. To go to the deposit calculator, click the "deposit" button.
+
+2. Enter the deposit amount.
+
+3. Enter the deposit term in months.
+
+4. Enter the interest rate.
+
+5. Enter the tax rate in percent.
+
+6. If you need capitalization, select the check box.
+
+7. For getting the result click the button "calculate".
+
+8. To clear the data click the button "clear".
+
+9. To close the deposit calculator click the "close" button.
+
+Press red button in top left coner to exit programm.
+
+Thank you.
+
